@@ -6,7 +6,7 @@ require 'fileutils'
 
 class Mksantoko
 
-    NUM_PAGE    = 1
+    NUM_PAGE    = 67
     BASE_URL    = "http://www.welluneednt.com/archive/category/%E8%AA%AD%E8%80%85%E2%86%94%E6%9D%91%E4%B8%8A%E6%98%A5%E6%A8%B9"
     DATA_DIR    = "./data"
 
